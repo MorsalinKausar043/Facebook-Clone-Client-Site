@@ -1,0 +1,9 @@
+.slider_div:hover{
+    opacity: 0.9;
+    transition: all linear 0.1s;
+}
+
+.image_style:hover{
+    transform: scale(1.02);
+    transition: all linear 0.1s;
+}
